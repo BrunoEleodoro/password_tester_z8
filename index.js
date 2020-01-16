@@ -1,4 +1,4 @@
-const pptrFirefox = require('puppeteer-firefox');
+const pptrFirefox = require('puppeteer');
 const fs = require('fs');
 
 function sleep(ms) {
