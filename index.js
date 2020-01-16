@@ -21,7 +21,6 @@ function sleep(ms) {
             '--no-first-run',
             '--no-sandbox',
             '--no-zygote',
-            '--single-process',
             '--ignore-certificate-errors',
             '--ignore-certificate-errors-spki-list',
             '--enable-features=NetworkService',
